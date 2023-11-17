@@ -1,4 +1,9 @@
 ### Hi there 👋
+[![Misskey](https://img.shields.io/badge/%40penginn-323232?style=for-the-badge&logo=misskey&logoColor=ffffff&label=GC-Key&labelColor=0e0e80)](https://gc-key.幼女.life/@penginn)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penginn-0)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penginn-0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **penginn-0/penginn-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
